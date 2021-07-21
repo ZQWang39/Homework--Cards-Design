@@ -3,12 +3,15 @@ JR Academy----Full Stack Online Course
 Project 1
 
 Overall:
+
 Use BEM naming, HTML, CSS to design a travel Card.
 
 Purpose:
+
 Card is a very common skill in web design. According to the actual application scenarios, card design is a very good way to master HTML and CSS bacis kills.
 
 Requirments:
+
 Through the HTML and CSS learned in the course, plan the HTML structure, use BEM to name and write the Class Name for CSS.
 Before coding, plan the HTML structure and Box Model first, so that there should be no overlap in each html structure.
 
