@@ -5,7 +5,7 @@ Project 1
 Overall:
 Use BEM naming, HTML, CSS to design a travel Card.
 
-purpose:
+Purpose:
 Card is a very common skill in web design. According to the actual application scenarios, card design is a very good way to master HTML and CSS bacis kills.
 
 Requirments:
