@@ -1,0 +1,73 @@
+.card1{
+    width:600px;
+    height:400px;
+    margin:20px auto;
+    background:center no-repeat url(../img/bg-2.png);
+    border-radius: 10px;
+    overflow: hidden;
+    
+    
+}
+
+.background{
+    position: absolute;
+    color:rgba(255,255,255,.1);
+    font-size: 200px;
+    top:250px;
+    left:-100px;
+}
+
+.card1__countryTag{
+    width: 60px;
+    height:20px;
+    background-color:white;
+    font-size: 12px;
+    text-align: center;
+    float:right;
+    margin-top:40px;
+    margin-right: 50px;
+    padding-top: 3px;
+    border-radius: 3px;
+}
+
+.card1__content{
+    position: relative;
+    top:280px;
+    border-left:solid rgb(8, 206, 189) 3px;
+    width:auto;
+}
+
+.card1__date{
+    padding-left: 40px;
+    color:rgb(8, 206, 189);
+}
+
+.card1__location{
+    padding-left: 40px;
+    color:white;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.card1__location--active:hover{
+    color:rgb(8, 206, 189);
+}
+
+.card1__button{
+    position: relative;
+    top:250px;
+    left:450px;
+    width:120px;
+    height:40px;
+    background-color: rgb(15, 93, 236);
+    color:white;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+    cursor:pointer;
+
+}
+
+.card1__button--active:hover{
+    background-color:rgb(10, 10, 129);
+}
